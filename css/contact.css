@@ -46,7 +46,7 @@ main {
 }
 
 .image {
-  background-image: url(../res/corinne-kutz-tMI2_-r5Nfo-unsplash.jpg);
+  background-image: url('../res/corinne-kutz-tMI2_-r5Nfo-unsplash.jpg');
   background-size: cover;
   width: 50%;
   height: 100%;
